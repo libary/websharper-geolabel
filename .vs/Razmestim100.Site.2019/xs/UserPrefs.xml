@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{999FA1B4-431A-42D4-A781-21D535DB195E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Main.html">
+    <Files>
+      <File FileName="Site.fs" Line="23" Column="13" />
+      <File FileName="Client.fs" Line="26" Column="39" />
+      <File FileName="Main.html" Line="11" Column="8" />
+      <File FileName="Remoting.fs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="wsconfig.json" Line="1" Column="1" />
+      <File FileName="Startup.fs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Razmestim100.Site.2019 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

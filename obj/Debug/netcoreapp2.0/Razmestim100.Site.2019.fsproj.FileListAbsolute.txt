@@ -1,0 +1,10 @@
+/Users/alexeypolikarpov/Documents/projects/Posting.2019/Razmestim100.Site.2019/obj/Debug/netcoreapp2.0/Razmestim100.Site.2019.fsprojAssemblyReference.cache
+/Users/alexeypolikarpov/Documents/projects/Posting.2019/Razmestim100.Site.2019/bin/Debug/netcoreapp2.0/Razmestim100.Site.2019.deps.json
+/Users/alexeypolikarpov/Documents/projects/Posting.2019/Razmestim100.Site.2019/bin/Debug/netcoreapp2.0/Razmestim100.Site.2019.runtimeconfig.json
+/Users/alexeypolikarpov/Documents/projects/Posting.2019/Razmestim100.Site.2019/bin/Debug/netcoreapp2.0/Razmestim100.Site.2019.runtimeconfig.dev.json
+/Users/alexeypolikarpov/Documents/projects/Posting.2019/Razmestim100.Site.2019/bin/Debug/netcoreapp2.0/Razmestim100.Site.2019.dll
+/Users/alexeypolikarpov/Documents/projects/Posting.2019/Razmestim100.Site.2019/bin/Debug/netcoreapp2.0/Razmestim100.Site.2019.pdb
+/Users/alexeypolikarpov/Documents/projects/Posting.2019/Razmestim100.Site.2019/obj/Debug/netcoreapp2.0/Razmestim100.Site.2019.dll
+/Users/alexeypolikarpov/Documents/projects/Posting.2019/Razmestim100.Site.2019/obj/Debug/netcoreapp2.0/Razmestim100.Site.2019.pdb
+/Users/alexeypolikarpov/Documents/projects/Posting.2019/Razmestim100.Site.2019/obj/Debug/netcoreapp2.0/Razmestim100.Site.2019.AssemblyInfoInputs.cache
+/Users/alexeypolikarpov/Documents/projects/Posting.2019/Razmestim100.Site.2019/obj/Debug/netcoreapp2.0/Razmestim100.Site.2019.AssemblyInfo.fs
